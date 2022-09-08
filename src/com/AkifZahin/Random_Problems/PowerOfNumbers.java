@@ -1,4 +1,4 @@
-package com.AkifZahin.RandomProblems;
+package com.AkifZahin.Random_Problems;
 import java.util.Scanner;
 public class PowerOfNumbers 
 {

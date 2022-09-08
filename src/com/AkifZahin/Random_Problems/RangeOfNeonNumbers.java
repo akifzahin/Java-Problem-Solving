@@ -1,4 +1,4 @@
-package com.AkifZahin.RandomProblems;
+package com.AkifZahin.Random_Problems;
 import java.util.Scanner;
 public class RangeOfNeonNumbers {
 //	Write down a function that will take an integer as parameter and will return true if the integer is a

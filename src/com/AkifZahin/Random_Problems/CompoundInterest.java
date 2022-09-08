@@ -1,7 +1,7 @@
-package com.AkifZahin.RandomProblems;
+package com.AkifZahin.Random_Problems;
 import java.util.Scanner;
 public class CompoundInterest {
-//Akif
+
 	public static void main(String[] args) 
 	{
 		//Initializing Scanner
@@ -13,7 +13,7 @@ public class CompoundInterest {
 		
 		System.out.println("Enter Interest Rate: ");
 		double R = input.nextDouble();
-		
+		 
 		System.out.println("Enter Time Span: ");
 		double T = input.nextDouble();
 		
