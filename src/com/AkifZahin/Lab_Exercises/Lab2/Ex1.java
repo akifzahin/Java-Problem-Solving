@@ -1,3 +1,6 @@
+//Write down a program that will interchange the value of three integers in the following order:
+//a -> b -> c -> a
+
 package com.AkifZahin.Lab_Exercises.Lab2;
 import java.util.Scanner;
 public class Ex1 {
